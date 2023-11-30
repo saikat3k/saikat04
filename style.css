@@ -1,0 +1,20 @@
+@font-face {
+    font-family: banglaFont;
+    src: url('fonts/Alkatra-Regular.woff2') format('woff2'),
+    url('fonts/Alkatra-Regular.woff') format('woff');
+}
+/* body{
+    background: red;
+} */
+
+p{
+    font-family: 'Mina', sans-serif;
+    font-size: 25px;
+    text-align: justify;
+    color:#006266 ;
+}
+h1{
+    font-family: 'banglaFont';
+    text-align: center;
+    color:#12CBC4 ;
+}
